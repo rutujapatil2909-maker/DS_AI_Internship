@@ -1,0 +1,4 @@
+git add day5_functions
+git commit -m "Add day5 functions task"
+git remote add origin https://github.com/rutujapatil2909-maker/DS_AI_Internship.git 
+git push -u origin main
